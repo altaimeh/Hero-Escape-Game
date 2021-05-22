@@ -5,6 +5,8 @@ The player wins when the hero reaches the exit.
 
 The player loses when the hero's health points (HP are zero (0). 
 
+Learning objectives:
+
 - Understand user defined classes and be able to apply them in C++ programs.
 - Understand inheritance and composition and be able to apply them in C++ classes.
 - Understand pointer data type and become aware of the features of classes withpointers member variables.
